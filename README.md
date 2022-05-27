@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Timowest12?tab=repositories](https://github.com/Timowest12?tab=repositories)
 
-  I'm currently a Microverse student and available for hire.
 
 
 <h3 align="left">Languages and Tools:</h3>
